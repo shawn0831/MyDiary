@@ -1,0 +1,3 @@
+需要在模擬伺服器的環境下進行
+請在MySQL資料庫中新建mydiary資料庫，並將"mydiary.sql"匯入資料庫中
+之後在本機環境中開啟index.php
